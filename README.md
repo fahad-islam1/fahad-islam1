@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **fahad.islam196@gmail.com**
 
-- ⚡ Fun fact: _"I am an open and friendly developer. Feel free to reach out if you have any questions!" **
+- ⚡ Fun fact: I am an open and friendly developer. Feel free to reach out if you have any questions! **
 
 📬 Contact
 <h3 align="left">Connect with me:</h3>
