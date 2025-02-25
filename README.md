@@ -11,11 +11,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahad-islam1" alt="fahad-islam1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/fahadislam211" target="blank"><img src="https://img.shields.io/twitter/follow/fahadislam211?logo=twitter&style=for-the-badge" alt="fahadislam211" /></a> </p>
-### 🚀 About Me
-- 🌱 I’m currently Working on  **Flutter & JavaScript**
-- 💬 Ask me about **Flutter, HTML, CSS, JavaScript, Node.js, MongoDB, Express**
-- 📫 Reach me at **[fahad.islam196@gmail.com](mailto:fahad.islam196@gmail.com)**
-- ⚡ Fun fact: _"I am an open and friendly developer. Feel free to reach out if you have any questions!"_
+
+- 🌱 I’m currently Working  **Flutter , javascript**
+
+- 💬 Ask me about **Flutter, Html,css,javascript,node js , mongo db , express**
+
+- 📫 How to reach me **fahad.islam196@gmail.com**
+
+- ⚡ Fun fact: _"I am an open and friendly developer. Feel free to reach out if you have any questions!" **
+
 📬 Contact
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,6 +44,5 @@ GitHub: github.com/fahad-islam1
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad-islam1&show_icons=true&locale=en&layout=compact" alt="fahad-islam1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahad-islam1&show_icons=true&locale=en" alt="fahad-islam1" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-islam1&" alt="fahad-islam1" /></p> 
