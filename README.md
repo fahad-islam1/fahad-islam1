@@ -44,5 +44,6 @@ GitHub: github.com/fahad-islam1
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad-islam1&show_icons=true&locale=en&layout=compact" alt="fahad-islam1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahad-islam1&show_icons=true&locale=en" alt="fahad-islam1" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahad-islam1&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-islam1&" alt="fahad-islam1" /></p> 
