@@ -72,15 +72,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahad-islam1&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=fahad-islam1&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahad-islam1&show_icons=true&theme=radical)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-islam1&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=fahad-islam1&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-islam1&layout=compact&theme=radical)
+
+
 ---
+
 
 ## ☕ Support Me
 
