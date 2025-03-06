@@ -77,7 +77,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fahad-islam1&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-islam1&layout=compact&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fahad-islam1)](https://git.io/streak-stats)
 
 ---
 
